@@ -25,10 +25,6 @@ This is a simple and fun **2D Snake Game** built with HTML5 Canvas. Control the 
 3. Collect food to increase your score and grow your snake.
 4. Avoid hitting walls or the snake's own body to keep playing!
 
-## Screenshot 📸
-![Game Screenshot](![snakegame](https://github.com/user-attachments/assets/97b2aa7c-4498-48ad-8ed9-92386aec2b48)
-)
-
 
 ## License 📜
 This project is licensed under the MIT License. For more details, refer to the `LICENSE` file.
