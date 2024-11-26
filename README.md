@@ -11,11 +11,11 @@ This is a simple and fun **2D Snake Game** built with HTML5 Canvas. Control the 
 ## How to Run? 🚀
 1. Clone this repository:
     ```bash
-    git clone https://github.com/yourusername/2d-snake-game.git
+    git clone https://github.com/yourusername/SnakeGame.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd 2d-snake-game
+    cd SnakeGame.git
     ```
 3. Open the `index.html` file in any modern browser to start the game.
 
