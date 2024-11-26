@@ -26,7 +26,7 @@ This is a simple and fun **2D Snake Game** built with HTML5 Canvas. Control the 
 4. Avoid hitting walls or the snake's own body to keep playing!
 
 ## Screenshot 📸
-![Game Screenshot](screenshot.png)
+![Game Screenshot](snakegame.png)
 
 
 ## License 📜
